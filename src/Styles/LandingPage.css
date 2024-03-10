@@ -1,0 +1,189 @@
+.learnings{
+    width: 350px;
+}
+
+ @media screen and (min-width:640px){
+    .learnings{
+      width: 500px;
+    }
+  } 
+@media screen and (min-width:768px){
+  .learnings{
+    width: 600px;
+  }
+}
+@media screen and (min-width:1024px){
+    .learnings{
+      width: 700px;
+    }
+  }
+  
+
+  .inputs{
+    width: 300px;
+  }
+  @media screen and (min-width:540px){
+    .inputs{
+      width: 300px;
+    }
+  } 
+  @media screen and (min-width:640px){
+    .inputs{
+      width: 400px;
+    }
+  } 
+@media screen and (min-width:550px){
+  .inputs{
+    width: 600px;
+  }
+}
+@media screen and (min-width:1016px){
+  .inputs{
+    width: 255px;
+  }
+}
+@media screen and (min-width:1175px){
+  .inputs{
+    width: 350px;
+  }
+}
+@media screen and (min-width:1412px){
+  .inputs{
+    width: 400px;
+  }
+}
+@media screen and (min-width:1500px){
+  .inputs{
+    width: 600px;
+  }
+}
+@media screen and (min-width:1500px){
+  .authenticatedInput{
+    width: 800px;
+  }
+}
+
+  .positions{
+    right: 25px;
+    width: 300px;
+  }
+  @media screen and (min-width:500px){
+    .positions{
+  right: 40px;
+  width: 400px;
+    }
+  }
+  @media screen and (min-width:640px){
+    .positions{
+  right: 130px;
+  width: 450px;
+    }
+  }
+  @media screen and (min-width:1024px){
+    .positions{
+  right: 500px;
+  width: 450px;
+    }
+  }
+
+  .rateCourse{
+    top: 300px;
+    left:50px
+  }
+
+  @media screen and (min-width:1024px){
+
+    .rateCourse{
+      top: 400px;
+      left:200px
+    }
+  
+  }
+  @media screen and (min-width:1140px){
+
+    .rateCourse{
+      top: 400px;
+      left:300px
+    }
+  
+  }
+  @media screen and (min-width:1300px){
+
+    .rateCourse{
+      top: 400px;
+      left:400px
+    }
+  
+  }
+  @media screen and (min-width:1400px){
+
+    .rateCourse{
+      top: 400px;
+      left:450px
+    }
+  
+  }
+
+  .reviews{
+    width: 350px;
+  }
+
+  @media screen and (min-width:500px){
+
+    .reviews{
+     width: 400px;
+    }
+   }
+  @media screen and (min-width:680px){
+
+    .reviews{
+     width: 500px;
+    }
+   }
+   @media screen and (min-width:800px){
+
+    .reviews{
+     width: 600px;
+    }
+   }
+  @media screen and (min-width:1024px){
+
+   .reviews{
+    width: 700px;
+   }
+  }
+  @media screen and (min-width:1200px){
+
+    .reviews{
+     width: 900px;
+    }
+   }
+
+   @media screen and (min-width:1300px){
+
+  .description{
+    width: 800px;
+  }
+   }
+
+   .image{
+    width: 300px;
+    height: 200px;
+   }
+ 
+
+
+   @media screen and (min-width:900px){
+
+    .image{
+      width: 400px;
+height: 200px;
+     }
+     }
+     @media screen and (min-width:1240px){
+
+      .image{
+        width: 500px;
+  height: 300px;
+       }
+       }
